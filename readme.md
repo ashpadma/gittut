@@ -27,5 +27,6 @@ Hello World!
 ## Repo commands
     git clone <"url">
     git push origin main    - To push committed new files to repo in Github
-    git fetch
+    git fetch               - To fetch the repo from Github to local(if there are changes)
+    git pull                - To reflect the fetched changes into the local repo
     

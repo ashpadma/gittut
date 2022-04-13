@@ -17,7 +17,9 @@ Hello World!
     eval $(ssh-agent -s)        - To check status of ssh running
     ssh-add ~/.ssh/id_rsa       - To add generated key to ssh
 
-        Then go to "C:/Users/<user>/.ssh" and open id_rsa with notepad and copy the whole text. Paste it on Github ssh key section for new key and give it a name. 
+        Then go to "C:/Users/<user>/.ssh" and open id_rsa with notepad
+        and copy the whole text. Paste it on Github ssh key section for
+        new key and give it a name. 
 
     ssh -T git@github.com       - To verify and next steps (type: yes)
 

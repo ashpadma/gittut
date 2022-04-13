@@ -27,4 +27,5 @@ Hello World!
 ## Repo commands
     git clone <"url">
     git push origin main    - To push committed new files to repo in Github
+    git fetch
     

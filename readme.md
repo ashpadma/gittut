@@ -30,3 +30,8 @@ Hello World!
     git fetch               - To fetch the repo from Github to local(if there are changes)
     git pull                - To reflect the fetched changes into the local repo
     
+## Branching and Forking
+    git branch <branch name>    - Create a local branch
+    git checkout <branch name>  - Switch to the local branch
+    git checkout -b <'branch name'> - Make new branch and switch to in one command
+    git push -u <origin> <branch>   - Push changes in local branch to main branch
